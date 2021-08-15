@@ -9,6 +9,7 @@ But the time of reckoning has come. And if you're unable to bear the weight of y
 ### Author 
 
 [Benjamin Jackson](http://twitter.com/benjaminjackson)
+
 JSON fork by Anthony Lécossais 
 
 ### Instructions:
