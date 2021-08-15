@@ -9,6 +9,7 @@ But the time of reckoning has come. And if you're unable to bear the weight of y
 ### Author 
 
 [Benjamin Jackson](http://twitter.com/benjaminjackson)
+JSON fork by Anthony Lécossais 
 
 ### Instructions:
 
@@ -34,7 +35,7 @@ Download your tweet archive and unzip it. Next, you'll have to run some things o
 
 Now copy your consumer key, consumer secret, access token, and access token secret into lib/config.rb and then copy and paste this line *without* pressing Enter:
 
-    bundle exec ruby bin/erase.rb 
+    bundle exec ruby bin/erase_json.rb 
     
 Drag your tweets folder onto Terminal and it should auto-complete the path to the folder. *Now* hit Enter, and follow the instructions.
 
